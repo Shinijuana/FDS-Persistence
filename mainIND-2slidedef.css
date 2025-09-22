@@ -220,7 +220,7 @@ h2, h3, h4 {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.1;
-  color: #101010;
+  color: #FFFFFFF;
 }
 
 #ar-button .btn-subtitle {
@@ -228,7 +228,7 @@ h2, h3, h4 {
   font-weight: 300;
   letter-spacing: 0.05em;
   line-height: 1;
-  color: #101010;
+  color: #FFFFFFF;
 }
 
 #ar-button .arrow {
@@ -237,7 +237,7 @@ h2, h3, h4 {
   left: 90%;
   transform: translate(-50%, -50%);
   font-size: 2em;
-  color: #101010;
+  color: #FFFFFFF;
   transition: transform 0.3s ease;
 }
 
